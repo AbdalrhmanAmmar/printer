@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Output folders (temp files, printer previews, zpl/text output)
+test_output/
+output/
+uploads/
+temp/
+preview/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# Build fil
